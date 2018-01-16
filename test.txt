@@ -1,2 +1,3 @@
 def test(v):
-	return print(v)
+	return print("Bonjour"+v)
+
